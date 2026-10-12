@@ -1,3 +1,5 @@
+> **Historical.** This roadmap describes the earlier Matchstick CLI. It is not the current plan: Matchstick Replay is a replay and inspection tool and does not execute orders or backtest. See https://matchstick.trading/docs/changelog/ for what shipped.
+
 # Matchstick Roadmap
 
 **Last Updated:** 2026-01-18
