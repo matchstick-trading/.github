@@ -2,14 +2,14 @@
 
 ## Have a question?
 
-For general questions, usage help, and discussion, use
-[GitHub Discussions](https://github.com/orgs/matchstick-trading/discussions).
+For general questions and usage help, email hello@matchstick.trading or see
+[matchstick.trading](https://matchstick.trading).
 
 ## Found a bug?
 
 File an issue in the specific repository the bug affects, using that repo's issue
-templates. If you're not sure which repository is responsible, start with
-[matchstick-core](https://github.com/matchstick-trading/matchstick-core).
+templates. If you're not sure which repository is responsible, email
+hello@matchstick.trading.
 
 ## Security issue?
 
