@@ -21,8 +21,6 @@ This roadmap outlines planned features and milestones. Priorities may shift base
 - [x] Order execution (`matchstick order buy/sell`)
 - [x] Interactive setup (`matchstick connect alpaca`)
 
-**Download:** [GitHub Releases](https://github.com/matchstick-trading/.github/releases)
-
 ---
 
 ## Next Up
@@ -63,9 +61,8 @@ This roadmap outlines planned features and milestones. Priorities may shift base
 
 ## How to Influence the Roadmap
 
-1. **Vote on features** - React to feature requests in [Discussions](https://github.com/orgs/matchstick-trading/discussions)
-2. **Share your use case** - Tell us what problem you are solving
-3. **Report friction** - Let us know what is confusing or broken
+1. **Share your use case** - Tell us what problem you are solving: hello@matchstick.trading
+2. **Report friction** - Let us know what is confusing or broken
 
 ---
 
